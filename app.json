@@ -1,14 +1,15 @@
 {
   "expo": {
-    "name": "react-native",
-    "slug": "react-native",
+    "name": "dowhile2021",
+    "slug": "dowhile2021",
     "version": "1.0.0",
+    "scheme": "dowhile2021",
     "orientation": "portrait",
     "icon": "./assets/icon.png",
     "splash": {
       "image": "./assets/splash.png",
       "resizeMode": "contain",
-      "backgroundColor": "#ffffff"
+      "backgroundColor": "#121214"
     },
     "updates": {
       "fallbackToCacheTimeout": 0
